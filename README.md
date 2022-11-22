@@ -26,7 +26,7 @@
 #### Databases
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 
-
+<br />
 <!---
 
 m1k32k16/m1k32k16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
