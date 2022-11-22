@@ -26,7 +26,7 @@
 #### Databases
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 
-<br />
+<br /><br />
 <img alt="Statistic" src="https://github-readme-stats.vercel.app/api?username=m1k32k16&show_icons=true&theme=radical" />
 <!---
 
