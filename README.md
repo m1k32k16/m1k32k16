@@ -27,9 +27,10 @@
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 
 <br />
+<img alt="Statistic" src="https://github-readme-stats.vercel.app/api?username=m1k32k16&show_icons=true&theme=radical" />
 <!---
 
 m1k32k16/m1k32k16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img alt="Statistic" src="https://github-readme-stats.vercel.app/api?username=m1k32k16&show_icons=true&theme=radical" />
+
