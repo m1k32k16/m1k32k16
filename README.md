@@ -1,4 +1,4 @@
-# Hi, I'm Dominik 👨🏻‍💻
+[![Github Badge]# Hi, I'm Dominik 👨🏻‍💻
 
 ### 🏅 My Capabilities
 #### Languages
