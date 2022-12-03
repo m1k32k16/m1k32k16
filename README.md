@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @m1k32k16
-- 👀 I’m interested in GTA Projects
-- 🌱 I’m currently learning Vuejs on the Projeckt Newstates
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Dominik 👨🏻‍💻
 
 ### 🏅 My Capabilities
 #### Languages
@@ -34,3 +30,8 @@ m1k32k16/m1k32k16 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m1k32k16&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m1k32k16&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m1k32k16&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1k32k16&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=m1k32k16&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
