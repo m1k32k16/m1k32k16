@@ -1,5 +1,6 @@
-[![Github Badge]# Hi, I'm Dominik 👨🏻‍💻
+# Hi, I'm Dominik 👨🏻‍💻
 
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 ### 🏅 My Capabilities
 #### Languages
 <img align="left" alt="JavaScript" width="35px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png" />
